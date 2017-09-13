@@ -11,14 +11,10 @@ Ver online: [aquí](http://palamago.github.io/intro-js-d3/)
 
 * Introducción Javascript
 * Introducción a desarrollo frontend
+
+###Bloque II
+
 * Introducción d3.js
-
-###Bloque II - Taller
-
 * Gráfico de barras en D3.
-* Gráfico de círculos en D3. (scatterplot) 
-* Librerías y herramientas sobre D3
 
 ![bars](http://palamago.github.io/intro-js-d3/bloque-II/bar-svg.gif)
-
-![bars](http://palamago.github.io/intro-js-d3/bloque-II/scatterplot8.gif)
