@@ -3,11 +3,11 @@
 
 # Introducción a Javascript y D3.js
 
-Ver online: [aquí](http://palamago.github.io/intro-js-d3/)
+Ver online: [aquí](https://visualizacion-uc.github.io/introduccion-js-d3/)
 
-##Contenido
+## Contenido 
 
-###Bloque I
+### Bloque I
 
 * Introducción Javascript
 * Introducción a desarrollo frontend
