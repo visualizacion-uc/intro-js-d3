@@ -12,9 +12,9 @@ Ver online: [aquí](https://visualizacion-uc.github.io/introduccion-js-d3/)
 * Introducción Javascript
 * Introducción a desarrollo frontend
 
-###Bloque II
+### Bloque II
 
 * Introducción d3.js
 * Gráfico de barras en D3.
 
-![bars](http://palamago.github.io/intro-js-d3/bloque-II/bar-svg.gif)
+![bars](https://visualizacionuc.github.io/introduccion-js-d3/bloque-II/bar-svg.gif)
