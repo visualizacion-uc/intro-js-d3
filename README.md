@@ -9,8 +9,8 @@ Ver online: [aquí](https://visualizacion-uc.github.io/introduccion-js-d3/)
 
 ### Bloque I
 
-* Introducción Javascript
 * Introducción a desarrollo frontend
+* Introducción Javascript
 
 ### Bloque II
 
