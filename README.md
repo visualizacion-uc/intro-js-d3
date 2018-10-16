@@ -3,7 +3,7 @@
 
 # Introducción a Javascript y D3.js
 
-Ver online: [aquí](https://visualizacion-uc.github.io/introduccion-js-d3/)
+Ver online: [aquí](https://visualizacionuc.github.io/introduccion-js-d3/)
 
 ## Contenido 
 
